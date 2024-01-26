@@ -1,0 +1,55 @@
+.appCont{
+  display: flex;
+}
+
+.content
+{
+  width: 100%;
+}
+
+.side
+{
+  min-height: 551px;
+}
+
+.post-card
+{
+  margin: 20px 50px;
+  min-width: 30rem;
+}
+
+.hash
+{
+  margin: 2px;
+}
+
+.reactions
+{
+  width: 100%;
+  margin-top: 15px;
+}
+
+.create-post
+{
+  margin-left: 10%;
+  width: 80%;
+  margin-top: 50px;
+}
+
+.wel
+{
+  margin: 100px 0px;
+}
+
+.spinner
+{
+  margin: 10% 0;
+}
+
+.container
+{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  right: 80px;
+}
